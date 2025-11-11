@@ -1,4 +1,4 @@
-![logo](https://github.com/Asifkhan600/Asifkhan600/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Technology%20Logo.png)
+![logo](https://github.com/Asifkhan600/Asifkhan600/blob/main/Blue%20and%20Black%20Modern%20Engineer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Asif Khan</h1>
 <h3 align="center">A passionate Web developer and AI Engineer from Pakistan.</h3>
   
