@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/asif khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif khan" height="30" width="40" /></a>
 <a href="https://fb.com/asif khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif_7xx" height="30" width="40" /></a>
-<a href="https://instagram.com/asif khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif khan" height="30" width="40" /></a>
+<a href="https://instagram.com/asif_khan7xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
