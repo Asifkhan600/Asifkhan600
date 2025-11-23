@@ -1,4 +1,4 @@
-![logo](https://github.com/Asifkhan600/Asifkhan600/blob/main/Blue%20and%20Black%20Modern%20Engineer%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/Asifkhan600/Asifkhan600/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Muhammad Asif Khan</h1>
 <h3 align="center">A passionate Web developer and AI Engineer from Pakistan</h3>
 <img align="right"alt="coding" width="400"src="https://github.com/user-attachments/assets/063441a5-e4cd-4159-a134-eb74a5cd5f52" />
